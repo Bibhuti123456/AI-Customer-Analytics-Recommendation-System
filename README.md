@@ -22,6 +22,8 @@
 
 <img src="https://img.shields.io/badge/Apriori-Association%20Rules-success?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge"/>
+
 </p>
 
 ---
