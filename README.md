@@ -45,6 +45,46 @@
 
 ---
 
+# 📌 Project Overview
+
+This project is an end-to-end AI-powered Customer Analytics & Recommendation System built using Python, SQL, Machine Learning, and Power BI.
+
+The solution analyzes customer purchasing behavior, segments customers using RFM Analysis and K-Means Clustering, generates product recommendations using the Apriori Algorithm, and presents business insights through an interactive Power BI dashboard.
+
+The project demonstrates the complete analytics workflow from raw data preprocessing to business intelligence reporting.
+
+---
+
+# 🎯 Business Problem
+
+Retail businesses often struggle to:
+
+- Identify high-value customers
+- Understand purchasing behavior
+- Improve customer retention
+- Increase cross-selling opportunities
+- Recommend relevant products
+- Support data-driven decision-making
+
+This project addresses these challenges through customer segmentation, recommendation analytics, and interactive business dashboards.
+
+---
+
+# 🛠 Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python |
+| Database | MySQL |
+| BI Tool | Power BI |
+| Data Processing | Pandas, NumPy |
+| Machine Learning | Scikit-Learn |
+| Recommendation Engine | Apriori Algorithm |
+| Data Visualization | Power BI |
+| Dataset | Online Retail II |
+
+---
+
 # 📸 Dashboard Gallery
 
 ## Executive Overview
@@ -74,6 +114,94 @@
 ## AI Recommendation Analytics
 
 ![Recommendation](Images/AI_Recommendation_Analytics.png)
+
+---
+
+# 🔄 Project Workflow
+
+![Workflow](Images/Workflow_Diagram.png)
+
+---
+
+# 📂 Dataset
+
+Dataset: **Online Retail II**
+
+Contains:
+
+- Customer Transactions
+- Invoice Details
+- Product Information
+- Customer IDs
+- Countries
+- Quantity
+- Unit Price
+
+The dataset was cleaned and transformed before analysis.
+
+---
+
+# 🗄 SQL Workflow
+
+SQL was used for:
+
+- Data Cleaning
+- Table Creation
+- KPI Calculation
+- Revenue Analysis
+- Customer Analysis
+- Product Analysis
+- Data Aggregation
+
+---
+
+# 🐍 Python Workflow
+
+Python was used for:
+
+- Data Cleaning
+- Missing Value Handling
+- Feature Engineering
+- RFM Analysis
+- Customer Segmentation
+- Product Recommendation
+
+---
+
+# 🤖 Machine Learning
+
+### Customer Segmentation
+
+Algorithm:
+
+- K-Means Clustering
+
+Features Used:
+
+- Recency
+- Frequency
+- Monetary Value
+
+Customer Segments:
+
+- VIP
+- Loyal
+- Regular
+- At Risk
+
+---
+
+### Recommendation Engine
+
+Algorithm:
+
+- Apriori
+
+Metrics:
+
+- Support
+- Confidence
+- Lift
 
 ---
 
@@ -108,28 +236,19 @@
 
 ---
 
+# 📁 Repository Structure
+
+```text
 AI-Customer-Analytics-Recommendation-System
 │
 ├── Data
-│   ├── customer_rfm.csv
-│   ├── customer_segments.csv
-│   ├── online_retail_clean.csv
-│   ├── online_retail_sql_ready.csv
-│   └── product_recommendations.csv
-│
 ├── Images
-│   ├── 01_Executive_Overview.png
-│   ├── 02_Customer_Analytics.png
-│   ├── 03_Product_Analytics.png
-│   ├── 04_Geographic_Analytics.png
-│   ├── 05_AI_Recommendation_Analytics.png
-│   └── 06_Workflow_Diagram.png
-│
-├── Python
 ├── SQL
+├── Python
 ├── PowerBI
 ├── README.md
 └── LICENSE
+```
 
 ---
 
@@ -149,8 +268,12 @@ AI-Customer-Analytics-Recommendation-System
 
 📊 Data Analyst | Business Intelligence Enthusiast
 
-🔗 GitHub: https://github.com/Bibhuti123456
+🔗 GitHub: [Bibhuti123456](https://github.com/Bibhuti123456)
 
-💼 LinkedIn: https://www.linkedin.com/in/bibhuti-bhusana-patnaik/
+💼 LinkedIn: [Bibhuti Bhusana Patnaik](https://www.linkedin.com/in/bibhuti-bhusana-patnaik/)
 
-⭐ If you found this project helpful, consider giving it a star.
+---
+
+⭐ If you found this project helpful, please consider giving it a Star!
+
+Thank you for visiting this repository.
