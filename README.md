@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="Images/Executive_Overview.png" width="100%">
-</p>
 
 <h1 align="center">🤖 AI-Powered E-Commerce Customer Analytics & Recommendation System</h1>
+<p align="center">
+
+<p align="center"><strong>  Customer Segmentation • Product Recommendation • Business Intelligence • Machine Learning</strong>
+
+</p>
 
 <p align="center">
 
@@ -19,9 +21,7 @@
 </p>
 
 <p align="center">
-
-<strong>Customer Segmentation • Product Recommendation • Business Intelligence • Machine Learning</strong>
-
+  <img src="Images/Executive_Overview.png" width="100%">
 </p>
 
 ---
