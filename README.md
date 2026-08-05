@@ -214,7 +214,7 @@ Metrics:
 - Geographic analysis highlighted revenue distribution across **41 countries**, supporting regional sales strategy.
 - Executive KPIs provide a comprehensive view of customer behavior, product performance, and revenue trends.
 
-  ---
+---
 
   # ⭐ Project Highlights
 
